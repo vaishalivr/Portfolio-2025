@@ -10,11 +10,11 @@
       image: "/visualizingMyMind.png",
       link: "https://visualizing-my-mind.vercel.app/",
     },
-    {
-      title: "How Same Or Different Are We",
-      image: "/howSameOrDifferentAreWe.png",
-      link: "https://capstone-wine-kappa.vercel.app/",
-    },
+    // {
+    //   title: "How Same Or Different Are We",
+    //   image: "/howSameOrDifferentAreWe.png",
+    //   link: "https://capstone-wine-kappa.vercel.app/",
+    // },
   ];
 
   let x = 0;
