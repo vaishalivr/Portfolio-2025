@@ -129,8 +129,7 @@
   .container {
     height: 100vh;
     max-width: 1000px;
-    margin: 0 auto;
-    margin-bottom: 1.5rem;
+    margin: 0.75rem auto;
     padding-top: 24vh;
     font-family: sans-serif;
   }
