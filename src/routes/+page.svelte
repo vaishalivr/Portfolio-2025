@@ -35,6 +35,10 @@
 <div class="container">
   <h1>Hi! I'm Vaishali Verma.</h1>
   <h1>I design and develop mostly with data</h1>
+  <h1>
+    Working with foundational AI models, into experimenting with latest
+    techniques to augment experiences with LLMs
+  </h1>
 
   <div class="card-container">
     {#each projects as project}
