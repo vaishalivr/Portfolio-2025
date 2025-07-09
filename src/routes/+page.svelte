@@ -114,6 +114,7 @@
     height: 100vh;
     padding-top: 33vh;
     text-align: center;
+    font-family: sans-serif;
   }
 
   h1 {
