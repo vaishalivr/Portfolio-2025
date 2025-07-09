@@ -40,21 +40,21 @@
     techniques to augment experiences with LLMs
   </h1> -->
   <h3>Hi! I'm Vaishali Verma.</h3>
-  <h3>I design and develop mostly with data</h3>
-  <h3>
+  <div>I design and develop mostly with data</div>
+  <div>
     Officially, I’m mostly a data visualization designer and developer OR a
     product designer depending on how you define roles within your company.
-  </h3>
-  <h3>
+  </div>
+  <div>
     I prototype zero-to-one design solutions to code using HTML/CSS/JS/Python,
     not just static mockups. This reduces overall risk by validating what’s
     possible, where we run against the limitations of tech or what design
     decisions need revisiting.
-  </h3>
-  <h3>
+  </div>
+  <div>
     Recently, I have started experimenting with AI Agents trying to understand
     the weakness and strengths of using LLMs to solve domain specific problems.
-  </h3>
+  </div>
 
   <div class="card-container">
     {#each projects as project}
@@ -128,6 +128,7 @@
 
   .container {
     height: 100vh;
+    max-width: 750px;
     padding-top: 33vh;
     text-align: center;
     font-family: sans-serif;
