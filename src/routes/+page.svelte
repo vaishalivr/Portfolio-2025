@@ -131,7 +131,6 @@
     max-width: 1000px;
     margin: 0 auto;
     padding-top: 24vh;
-    text-align: center;
     font-family: sans-serif;
   }
 
