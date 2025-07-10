@@ -10,11 +10,11 @@
       image: "/visualizingMyMind.png",
       link: "https://visualizing-my-mind.vercel.app/",
     },
-    // {
-    //   title: "How Same Or Different Are We",
-    //   image: "/howSameOrDifferentAreWe.png",
-    //   link: "https://capstone-wine-kappa.vercel.app/",
-    // },
+    {
+      title: "Data Visualization Prototype Paradox",
+      image: "/dataVisualizationPrototypeParadox.png",
+      link: "https://the-data-visualization-prototype-pa.vercel.app/",
+    },
   ];
 
   let x = 0;
