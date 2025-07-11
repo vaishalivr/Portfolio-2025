@@ -33,22 +33,16 @@
 <svelte:window on:mousemove={handleMouseMove} />
 
 <div class="container">
-  <!-- <h1>Hi! I'm Vaishali Verma.</h1>
-  <h1>I design and develop mostly with data</h1>
-  <h1>
-    Working with foundational AI models, into experimenting with latest
-    techniques to augment experiences with LLMs
-  </h1> -->
-  <h3>Hi! I'm Vaishali Verma.</h3>
-  <div>I design and develop mostly with data</div>
+  <h3>Hi! I'm Vaishali Verma</h3>
+  <h2>I design and develop mostly with data.</h2>
   <div>
     Officially, I’m mostly a data visualization designer and developer OR a
     product designer depending on how you define roles within your company.
   </div>
   <div>
     I prototype zero-to-one design solutions to code using HTML/CSS/JS/Python,
-    not just static mockups. This reduces overall risk by validating what’s
-    possible, where we run against the limitations of tech or what design
+    not just static mockups in the hope of reducing overall risk by validating
+    what’s possible, where we run against the limitations of tech or what design
     decisions need revisiting.
   </div>
   <div>
@@ -132,6 +126,12 @@
     margin: 0.75rem auto;
     padding-top: 24vh;
     font-family: sans-serif;
+  }
+
+  .container div {
+    margin-bottom: 1.2rem;
+    font-size: 1.2rem;
+    line-height: 1.5;
   }
 
   h3 {
